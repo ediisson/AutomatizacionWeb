@@ -1,0 +1,47 @@
+# ==========================================
+# 🐍 PYTHON - No subir código fuente
+# ==========================================
+*.py
+*.pyc
+__pycache__/
+*.pyd
+.Python
+venv/
+env/
+
+# ==========================================
+# 📁 CARPETAS - No subir estas carpetas
+# ==========================================
+GLOBAL/
+assets/
+build/
+dist/
+backup/
+temp/
+tests/
+docs/
+
+# ==========================================
+# 📄 ARCHIVOS PERSONALES - No subir
+# ==========================================
+configuraciones.json
+flujos.json
+*.log
+*.tmp
+*.spec
+
+# ==========================================
+# 🔧 IDE - No subir configuraciones
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================================
+# ⚡ SOLO SE SUBEN:
+# ==========================================
+# ✅ version.json      (para actualizaciones)
+# ✅ README.md         (documentación)
+# ✅ .gitignore        (este archivo)
+# ==========================================

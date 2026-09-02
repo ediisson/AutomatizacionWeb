@@ -1,0 +1,35 @@
+{
+    "version": "1.0.1",
+    "como_funciona": [
+        "1. Configura tus credenciales en la pestaña Configuración",
+        "2. Carga o crea flujos en la pestaña Flujos",
+        "3. Prueba los pasos en la pestaña Pruebas",
+        "4. Ejecuta la automatización con el botón Ejecutar",
+        "5. El bot lee el Excel y procesa cada OT",
+        "6. Actualiza el Excel con los resultados"
+    ],
+    "mejoras": [
+        {
+            "version": "1.0.1",
+            "fecha": "2026-09-01",
+            "cambios": [
+                "deploy"
+            ]
+        },
+        {
+            "version": "1.0.2",
+            "fecha": "2026-09-01",
+            "cambios": [
+                "deploy"
+            ]
+        },
+        {
+            "version": "1.0.1",
+            "fecha": "2026-09-01",
+            "cambios": [
+                "primer cargue"
+            ]
+        }
+    ],
+    "proximas_mejoras": []
+}
