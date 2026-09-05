@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "como_funciona": [
         "1. Configura tus credenciales en la pestaña Configuración",
         "2. Carga o crea flujos en la pestaña Flujos",
@@ -9,6 +9,13 @@
         "6. Actualiza el Excel con los resultados"
     ],
     "mejoras": [
+        {
+            "version": "1.0.7",
+            "fecha": "2026-09-04",
+            "cambios": [
+                "Mejoras visuales en la interfaz, arrreglo en los scrol mejora en los botones, una mejor experiencia en el siste"
+            ]
+        },
         {
             "version": "1.0.6",
             "fecha": "2026-09-02",
