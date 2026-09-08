@@ -44,4 +44,6 @@ flujos.json
 # ✅ version.json      (para actualizaciones)
 # ✅ README.md         (documentación)
 # ✅ .gitignore        (este archivo)
+# ✅ .LICENSE.md        (este archivo)
+# ✅ .requirements.txt        (este archivo)
 # ==========================================
