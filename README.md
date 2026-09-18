@@ -13,7 +13,7 @@
 
 ## 📦 Versión
 
-**v1.1.4**
+**v1.1.5**
 
 ---
 
@@ -47,7 +47,7 @@ Descarga la última versión disponible desde:
 [https://github.com/ediisson/AutomatizacionWeb/releases](https://github.com/ediisson/AutomatizacionWeb/releases)
 
 ### 2. Ejecutar
-Descarga el archivo `BOT_AutomatismoWeb_v1.1.4.exe` y ejecútalo.
+Descarga el archivo `BOT_AutomatismoWeb_v1.1.5.exe` y ejecútalo.
 
 > **Nota:** No necesitas tener Python instalado para utilizar la versión compilada.
 
@@ -274,7 +274,7 @@ El BOT incorpora un sistema de actualización basado en GitHub.
 Durante el inicio, el sistema consulta la versión disponible y compara con la versión instalada.
 
 **Actualmente:**
-- 📦 Versión instalada: v1.1.4
+- 📦 Versión instalada: v1.1.5
 
 Cuando existe una nueva versión disponible, el BOT informa:
 - 🔄 Nueva versión disponible
