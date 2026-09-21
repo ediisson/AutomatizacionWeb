@@ -1,7 +1,7 @@
 {
-    "version": "1.1.5",
-    "fecha": "2026-09-18 16:20:27",
-    "url_descarga": "https://github.com/ediisson/AutomatizacionWeb/releases/download/v1.1.5/BOT_AutomatismoWeb_v1.1.5.exe",
-    "notas": "nueva funcion",
+    "version": "1.1.6",
+    "fecha": "2026-09-20 21:53:20",
+    "url_descarga": "https://github.com/ediisson/AutomatizacionWeb/releases/download/v1.1.6/BOT_AutomatismoWeb_v1.1.6.exe",
+    "notas": "nuevas funciones, ahora pudes colocar inicio y final de marcador",
     "autor": "EO"
 }
